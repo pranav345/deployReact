@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pranav345/deployReact.git/static/css/main.9959a8d8.chunk.css",
+    "main.js": "/pranav345/deployReact.git/static/js/main.5a1efde3.chunk.js",
+    "main.js.map": "/pranav345/deployReact.git/static/js/main.5a1efde3.chunk.js.map",
+    "runtime-main.js": "/pranav345/deployReact.git/static/js/runtime-main.e4639217.js",
+    "runtime-main.js.map": "/pranav345/deployReact.git/static/js/runtime-main.e4639217.js.map",
+    "static/css/2.f3e844c0.chunk.css": "/pranav345/deployReact.git/static/css/2.f3e844c0.chunk.css",
+    "static/js/2.9faab4e4.chunk.js": "/pranav345/deployReact.git/static/js/2.9faab4e4.chunk.js",
+    "static/js/2.9faab4e4.chunk.js.map": "/pranav345/deployReact.git/static/js/2.9faab4e4.chunk.js.map",
+    "index.html": "/pranav345/deployReact.git/index.html",
+    "static/css/2.f3e844c0.chunk.css.map": "/pranav345/deployReact.git/static/css/2.f3e844c0.chunk.css.map",
+    "static/css/main.9959a8d8.chunk.css.map": "/pranav345/deployReact.git/static/css/main.9959a8d8.chunk.css.map",
+    "static/js/2.9faab4e4.chunk.js.LICENSE.txt": "/pranav345/deployReact.git/static/js/2.9faab4e4.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/pranav345/deployReact.git/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4639217.js",
+    "static/css/2.f3e844c0.chunk.css",
+    "static/js/2.9faab4e4.chunk.js",
+    "static/css/main.9959a8d8.chunk.css",
+    "static/js/main.5a1efde3.chunk.js"
+  ]
+}
